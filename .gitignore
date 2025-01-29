@@ -1,0 +1,4 @@
+stego_images/
+metadata/
+__pycache__/
+__pycache__/*
